@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: https://parshuramkalunkhe.github.io/
+
 <!--
 **parshuramkalunkhe/parshuramkalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
