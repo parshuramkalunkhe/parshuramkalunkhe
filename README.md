@@ -1,4 +1,4 @@
-### 👋 Buggy Coder
+### 👋 Bug || "अयं लोकः दोषपूर्ण कार्यक्रमः अस्ति।"
 
 <!--
 **parshuramkalunkhe/parshuramkalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
