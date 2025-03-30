@@ -1,4 +1,4 @@
-### 👋 Bug || "अयं लोकः दोषपूर्ण कार्यक्रमः अस्ति।"
+### Could you settle for a smile and a fond farewell? ✨
 
 <!--
 **parshuramkalunkhe/parshuramkalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
