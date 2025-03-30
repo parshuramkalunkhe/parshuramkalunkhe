@@ -1,4 +1,4 @@
-### Could you settle for a smile and a fond farewell? ✨
+### *Could you settle for a smile and a fond farewell?* ✨
 
 <!--
 **parshuramkalunkhe/parshuramkalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
